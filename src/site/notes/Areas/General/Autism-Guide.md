@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/areas/general/autism-guide/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/areas/general/autism-guide/"}
 ---
 
 
 - #### Metadata
-	- topic:: [[Areas/Public/MOCs/00 Health|00 Health]]
-	- updated:: [[journals/2022/02/2022-02-07|2022-02-07]]
-	- reviewed:: [[journals/2022/02/2022-02-07|2022-02-07]]
+	- topic:: [[Areas/Public/MOCs/00 Health\|00 Health]]
+	- updated:: [[journals/2022/02/2022-02-07\|2022-02-07]]
+	- reviewed:: [[journals/2022/02/2022-02-07\|2022-02-07]]
 	- author:: Joseph Barber (MD)
 	- #BookSummary 
 
-[[digitalgarden home|digitalgarden home]]
+[[Areas/General/digitalgarden home\|digitalgarden home]]
 ## Personal Summary
 
 ## Summary by Chapter
