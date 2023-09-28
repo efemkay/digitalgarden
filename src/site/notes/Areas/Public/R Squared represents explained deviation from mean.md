@@ -32,6 +32,7 @@
 > - Coefficient of Determination (R²) | Calculation & Interpretation - Scribbr. https://www.scribbr.com/statistics/coefficient-of-determination/.
 > - Coefficient of determination - Wikipedia. https://en.wikipedia.org/wiki/Coefficient_of_determination.
 
+
 ## References
 - [What is Regression? / SSE, SSR, SST / R-squared / Errors (ε vs. e) - YouTube](https://www.youtube.com/watch?v=aq8VU5KLmkY)
 
