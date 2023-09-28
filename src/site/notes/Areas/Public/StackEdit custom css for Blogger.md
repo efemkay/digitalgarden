@@ -16,7 +16,7 @@
 
 ## Metadata
 - topic:: [[Areas/Public/MOCs/00 Coding\|00 Coding]]
-	- related:: [[Areas/General/css snippets\|css snippets]]
+	- related:: [[Areas/Public/CSS Notes\|CSS Notes]]
 - updated:: [[journals/2022/07/2022-07-02\|2022-07-02]]
 - reviewed:: [[journals/2022/07/2022-07-02\|2022-07-02]]
 - #FleetingNote #toexpand 
