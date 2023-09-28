@@ -25,11 +25,18 @@
 > - Another way to think about R2 is the square of the correlation coefficient between the actual and predicted Y values.
 > - [GraphPad Prism 8 Curve Fitting Guide - R squared](https://www.graphpad.com/guides/prism/8/curve-fitting/reg_intepretingnonlinr2.htm)
 
+> [!info]- R-squared is also known as coefficient of determination
+> The coefficient of determination, also known as **R-squared** or **r-squared**, is a measure of how well a statistical model fits the data. It is the ratio of the explained variation to the total variation in the dependent variable¹²³. It ranges from 0 to 1, where 0 means no fit and 1 means perfect fit¹²³. For example, if the coefficient of determination is 0.8, it means that 80% of the variation in the dependent variable can be predicted by the model⁴.
+> 
+> ### Source: Conversation with Bing, 25/05/2023
+> - Coefficient of Determination (R²) | Calculation & Interpretation - Scribbr. https://www.scribbr.com/statistics/coefficient-of-determination/.
+> - Coefficient of determination - Wikipedia. https://en.wikipedia.org/wiki/Coefficient_of_determination.
+
 ## References
 - [What is Regression? / SSE, SSR, SST / R-squared / Errors (ε vs. e) - YouTube](https://www.youtube.com/watch?v=aq8VU5KLmkY)
 
 ## Metadata
 - topic:: [[Areas/Public/MOCs/00 Statistics\|00 Statistics]]
-- updated:: [[journals/2022/09/2022-09-10\|2022-09-10]]
-- reviewed:: [[journals/2022/09/2022-09-10\|2022-09-10]]
+- created:: [[journals/2022/09/2022-09-10\|2022-09-10]]
+- updated:: [[journals/2023/05/2023-05-25\|2023-05-25]]
 - #PermanentNote 
