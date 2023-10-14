@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/general/digitalgarden-home/","tags":["gardenEntry"],"updated":"2023-10-14T19:00:11.629+08:00"}
+{"dg-publish":true,"dg-path":"General/digitalgarden home.md","permalink":"/general/digitalgarden-home/","tags":["gardenEntry"],"updated":"2023-10-14T19:00:11.629+08:00"}
 ---
 
 
