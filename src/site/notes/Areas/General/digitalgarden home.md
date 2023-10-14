@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"General/digitalgarden home.md","permalink":"/general/digitalgarden-home/","tags":["gardenEntry"],"updated":"2023-09-28T19:44:25.513+08:00"}
+{"dg-publish":true,"permalink":"/areas/general/digitalgarden-home/","tags":["gardenEntry"],"updated":"2023-10-14T18:50:01.613+08:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 - [[Areas/Public/StackEdit custom css for Blogger\|StackEdit custom css for Blogger]]
 - test
 - [[Areas/Public/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]]
+- [[Areas/Public/About My Notes\|About My Notes]]
 
 ## MOC
 - [[Areas/Public/MOCs/00 Engineering Economics\|00 Engineering Economics]] #mcl/list-grid 
