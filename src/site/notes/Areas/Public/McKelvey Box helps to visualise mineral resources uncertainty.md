@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/public/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","title":"McKelvey Box helps to visualise mineral resources uncertainty"}
+{"dg-publish":true,"dg-path":"Public/McKelvey Box helps to visualise mineral resources uncertainty.md","permalink":"/public/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","title":"McKelvey Box helps to visualise mineral resources uncertainty","updated":"2022-10-10T19:25:33.673+08:00"}
 ---
 
 
