@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Public/About My Notes.md","permalink":"/public/about-my-notes/","title":"About My Notes","updated":"2023-10-14T18:31:57.117+08:00"}
+{"dg-publish":true,"permalink":"/areas/public/about-my-notes/","title":"About My Notes","updated":"2023-10-14T18:31:57.117+08:00"}
 ---
 
 
@@ -10,9 +10,9 @@
 
 ## About My Notes and Its Content
 ### Gems of My Digital Garden
-- #### My work revolves around [[Areas/Public/MOCs/00 Engineering Economics\|00 Engineering Economics]] and [[Areas/Public/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]], as such insights in those notes are my most valuable gems
+- #### My work revolves around [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]] and [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]], as such insights in those notes are my most valuable gems
 	- For these, I capture mostly insights I gathered from my many years in the industry, so it won’t cover the basics or fundamental as much. But you’ll find references and links within the notes for that.
-- As I expand my core skills, I find myself venturing into big data analysis and with that I gather notes on [[Areas/Public/MOCs/00 Statistics\|00 Statistics]] and [[Areas/Public/MOCs/00 Coding\|00 Coding]] (VBA, Python and R)
+- As I expand my core skills, I find myself venturing into big data analysis and with that I gather notes on [[Areas/MOCs/00 Statistics\|00 Statistics]] and [[Areas/MOCs/00 Coding\|00 Coding]] (VBA, Python and R)
 	- I’m in no way an expert in statistics, my learning is ongoing but focus is on big data related. So my notes will be a bit on novice side with few might venture into somewhat complex.
 	- For Coding, most of it will be reference notes (for me to reuse in other projects)
 
@@ -23,7 +23,7 @@
 - #### Here are list of tools and apps I use and what kind of notes I take about them
 	- Excel and VBA are my primary apps at work, so there’re some good pointers on how I use VBA/macro to ease my life.
 		- I don’t anything on PowerPoint even though I use it daily as well as Excel because there’s nothing insightful I can offer – almost all I know, you can simply google it.
-	- I use [[Areas/Public/MOCs/01 Obsidian\|01 Obsidian]] for my personal knowledge management. Where I capture my insights on the areas/topics laid out in this note.
+	- I use [[Areas/MOCs/01 Obsidian\|01 Obsidian]] for my personal knowledge management. Where I capture my insights on the areas/topics laid out in this note.
 	- I’ve been tinkering with Github (repo and pages) and Jekyll for sharing my code snippets and hosting my website / digital garden,
 		- There are a bit of both, references and insights, on using/adding mathjax (math equation), mermaid diagram, and markdown related to my content creation.
 			- my css snippets – [MCL snippets for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)
