@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/mo-cs/00-statistics/","title":"00 Statistics","updated":"2023-10-15T11:01:38.000+08:00"}
+{"dg-publish":true,"dg-path":"MOCs/00 Statistics.md","permalink":"/mo-cs/00-statistics/","title":"00 Statistics","updated":"2023-10-15T11:01:38.000+08:00"}
 ---
 
 
