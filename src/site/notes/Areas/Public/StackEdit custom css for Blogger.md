@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Public/StackEdit custom css for Blogger.md","permalink":"/public/stack-edit-custom-css-for-blogger/","title":"StackEdit custom css for Blogger","updated":"2023-08-30T22:09:54.972+08:00"}
+{"dg-publish":true,"permalink":"/areas/public/stack-edit-custom-css-for-blogger/","title":"StackEdit custom css for Blogger","updated":"2023-08-30T22:09:54.972+08:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 		```
 
 ## Metadata
-- topic:: [[Areas/Public/MOCs/00 Coding\|00 Coding]]
+- topic:: [[Areas/MOCs/00 Coding\|00 Coding]]
 	- related:: [[Areas/Public/CSS Notes\|CSS Notes]]
 - updated:: [[journals/2022/07/2022-07-02\|2022-07-02]]
 - reviewed:: [[journals/2022/07/2022-07-02\|2022-07-02]]
