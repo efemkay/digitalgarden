@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/general/notes-home/","tags":["gardenEntry"],"updated":"2023-10-15T10:55:57.300+08:00"}
+{"dg-publish":true,"dg-path":"General/Notes Home.md","permalink":"/general/notes-home/","tags":["gardenEntry"],"updated":"2023-10-15T10:55:57.300+08:00"}
 ---
 
 
