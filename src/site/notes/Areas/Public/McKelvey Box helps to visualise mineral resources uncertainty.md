@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Public/McKelvey Box helps to visualise mineral resources uncertainty.md","permalink":"/public/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","title":"McKelvey Box helps to visualise mineral resources uncertainty","updated":"2022-10-10T19:25:33.673+08:00"}
+{"dg-publish":true,"permalink":"/areas/public/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","title":"McKelvey Box helps to visualise mineral resources uncertainty","updated":"2022-10-10T19:25:33.673+08:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 - [McKelvey box - SubSurfWiki](https://subsurfwiki.org/wiki/McKelvey_box)
 
 ## Metadata
-- topic:: [[Areas/Public/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
+- topic:: [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
 - updated:: [[journals/2022/06/2022-06-22\|2022-06-22]]
 - reviewed:: [[journals/2022/06/2022-06-22\|2022-06-22]]
 - #LiteratureNote 
