@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/mo-cs/01-r-programming/","title":"01 R programming","updated":"2023-10-15T11:05:32.005+08:00"}
+{"dg-publish":true,"dg-path":"MOCs/01 R programming.md","permalink":"/mo-cs/01-r-programming/","title":"01 R programming","updated":"2023-10-15T11:05:32.005+08:00"}
 ---
 
 
