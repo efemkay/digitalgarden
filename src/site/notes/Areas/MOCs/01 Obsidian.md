@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/mo-cs/01-obsidian/","title":"01 Obsidian","updated":"2023-10-15T11:07:05.706+08:00"}
+{"dg-publish":true,"dg-path":"MOCs/01 Obsidian.md","permalink":"/mo-cs/01-obsidian/","title":"01 Obsidian","updated":"2023-10-15T11:07:05.706+08:00"}
 ---
 
 
