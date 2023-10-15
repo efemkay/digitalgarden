@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Public/R Squared represents explained deviation from mean.md","permalink":"/public/r-squared-represents-explained-deviation-from-mean/","title":"R Squared represents explained deviation from mean","tags":["PermanentNote"],"updated":"2023-09-28T21:05:50.638+08:00"}
+{"dg-publish":true,"permalink":"/areas/public/r-squared-represents-explained-deviation-from-mean/","title":"R Squared represents explained deviation from mean","tags":["PermanentNote"],"updated":"2023-09-28T21:05:50.638+08:00"}
 ---
 
 
@@ -37,7 +37,7 @@
 - [What is Regression? / SSE, SSR, SST / R-squared / Errors (ε vs. e) - YouTube](https://www.youtube.com/watch?v=aq8VU5KLmkY)
 
 ## Metadata
-- topic:: [[Areas/Public/MOCs/00 Statistics\|00 Statistics]]
+- topic:: [[Areas/MOCs/00 Statistics\|00 Statistics]]
 - created:: [[journals/2022/09/2022-09-10\|2022-09-10]]
 - updated:: [[journals/2023/05/2023-05-25\|2023-05-25]]
 - #PermanentNote 
