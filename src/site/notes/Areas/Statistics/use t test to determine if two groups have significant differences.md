@@ -6,7 +6,7 @@
 ### When to use a t test 
 - #### A t test can only be used when comparing the means of two groups (a.k.a. pairwise comparison).
 	- If you want to compare more than two groups, or if you want to do multiple pairwise comparisons, use an ANOVA test or a post-hoc test. 
-- #### t test is a [[Areas/Public/choosing statistical test depends on whether predictor is quantitative or categorical\|parametric]] test of difference, meaning that it makes the same assumptions about your data as other parametric tests. The t test assumes your data: 
+- #### t test is a [[Areas/Statistics/choosing statistical test depends on whether predictor is quantitative or categorical\|parametric]] test of difference, meaning that it makes the same assumptions about your data as other parametric tests. The t test assumes your data: 
 	- are independent 
 	- are (approximately) normally distributed 
 	- have a similar amount of variance within each group being compared (a.k.a. homogeneity of variance) 
