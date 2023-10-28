@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"General/About My Notes.md","permalink":"/general/about-my-notes/","title":"About My Notes","updated":"2023-10-14T18:31:57.117+08:00"}
+{"dg-publish":true,"dg-path":"General/About My Notes.md","permalink":"/general/about-my-notes/","title":"About My Notes"}
 ---
 
 
