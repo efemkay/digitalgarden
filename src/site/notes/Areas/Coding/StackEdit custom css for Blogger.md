@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Coding/StackEdit custom css for Blogger.md","permalink":"/coding/stack-edit-custom-css-for-blogger/","title":"StackEdit custom css for Blogger","updated":"2023-08-30T22:09:54.972+08:00"}
+{"dg-publish":true,"dg-path":"Coding/StackEdit custom css for Blogger.md","permalink":"/coding/stack-edit-custom-css-for-blogger/","title":"StackEdit custom css for Blogger"}
 ---
 
 
