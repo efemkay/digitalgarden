@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MOCs/01 GitHub.md","permalink":"/mo-cs/01-git-hub/","title":"01 GitHub","updated":"2023-10-15T11:04:44.452+08:00"}
+{"dg-publish":true,"dg-path":"MOCs/01 GitHub.md","permalink":"/mo-cs/01-git-hub/","title":"01 GitHub"}
 ---
 
 
