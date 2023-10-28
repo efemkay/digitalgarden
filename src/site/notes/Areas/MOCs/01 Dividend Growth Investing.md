@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MOCs/01 Dividend Growth Investing.md","permalink":"/mo-cs/01-dividend-growth-investing/","title":"01 Dividend Growth Investing","updated":"2023-10-15T11:04:29.558+08:00"}
+{"dg-publish":true,"dg-path":"MOCs/01 Dividend Growth Investing.md","permalink":"/mo-cs/01-dividend-growth-investing/","title":"01 Dividend Growth Investing"}
 ---
 
 
