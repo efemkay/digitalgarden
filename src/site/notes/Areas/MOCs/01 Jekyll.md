@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MOCs/01 Jekyll.md","permalink":"/mo-cs/01-jekyll/","title":"01 Jekyll","updated":"2023-10-15T11:04:56.780+08:00"}
+{"dg-publish":true,"dg-path":"MOCs/01 Jekyll.md","permalink":"/mo-cs/01-jekyll/","title":"01 Jekyll"}
 ---
 
 
