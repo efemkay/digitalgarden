@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Petroleum Engineering/mole percent vs wt percent.md","permalink":"/petroleum-engineering/mole-percent-vs-wt-percent/","updated":"2023-10-18T11:16:10.510+08:00"}
+{"dg-publish":true,"dg-path":"Petroleum Engineering/mole percent vs wt percent.md","permalink":"/petroleum-engineering/mole-percent-vs-wt-percent/"}
 ---
 
 
