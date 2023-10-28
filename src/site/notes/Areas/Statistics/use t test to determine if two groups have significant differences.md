@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Statistics/use t test to determine if two groups have significant differences.md","permalink":"/statistics/use-t-test-to-determine-if-two-groups-have-significant-differences/","title":"use t test to determine if two groups have significant differences","tags":["PermanentNote"],"updated":"[[journals/2023/10/2023-10-28\|2023-10-28]]"}
+{"dg-publish":true,"dg-path":"Statistics/use t test to determine if two groups have significant differences.md","permalink":"/statistics/use-t-test-to-determine-if-two-groups-have-significant-differences/","title":"use t test to determine if two groups have significant differences","tags":["PermanentNote"],"updated":"2023-10-28"}
 ---
 
 
@@ -42,5 +42,5 @@
 ## Metadata
 - topic:: [[Areas/MOCs/00 Statistics\|00 Statistics]]
 - created:: [[journals/2023/10/2023-10-28\|2023-10-28]]
-- updated:: [[2023-10-28]]
+- updated:: [[journals/2023/10/2023-10-28\|2023-10-28]]
 - #PermanentNote 
