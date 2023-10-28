@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12.md","permalink":"/petroleum-engineering/a-mole-of-anything-contains-as-many-particles-as-12g-of-carbon-12/","title":"a mole of anything contains as many particles as 12g of carbon-12","tags":["PermanentNote"],"updated":"2023-10-15T11:08:01.367+08:00"}
+{"dg-publish":true,"dg-path":"Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12.md","permalink":"/petroleum-engineering/a-mole-of-anything-contains-as-many-particles-as-12g-of-carbon-12/","title":"a mole of anything contains as many particles as 12g of carbon-12","tags":["PermanentNote"]}
 ---
 
 
