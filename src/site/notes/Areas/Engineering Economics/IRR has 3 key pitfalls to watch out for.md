@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Engineering Economics/IRR has 3 key pitfalls to watch out for.md","permalink":"/engineering-economics/irr-has-3-key-pitfalls-to-watch-out-for/","title":"IRR has 3 key pitfalls to watch out for","tags":["PermanentNote"],"updated":"2023-10-15T11:15:41.364+08:00"}
+{"dg-publish":true,"dg-path":"Engineering Economics/IRR has 3 key pitfalls to watch out for.md","permalink":"/engineering-economics/irr-has-3-key-pitfalls-to-watch-out-for/","title":"IRR has 3 key pitfalls to watch out for","tags":["PermanentNote"]}
 ---
 
 
