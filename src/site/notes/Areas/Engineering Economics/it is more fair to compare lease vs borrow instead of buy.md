@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Engineering Economics/it is more fair to compare lease vs borrow instead of buy.md","permalink":"/engineering-economics/it-is-more-fair-to-compare-lease-vs-borrow-instead-of-buy/","title":"it is more fair to compare lease vs borrow instead of buy","updated":"2023-10-18T11:12:45.033+08:00"}
+{"dg-publish":true,"dg-path":"Engineering Economics/it is more fair to compare lease vs borrow instead of buy.md","permalink":"/engineering-economics/it-is-more-fair-to-compare-lease-vs-borrow-instead-of-buy/","title":"it is more fair to compare lease vs borrow instead of buy"}
 ---
 
 - #### Comparing leasing to purchase with borrowing will put the two on same level in term of advantage (delaying investment) and risk (leveraging)
