@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Statistics/R Squared represents explained deviation from mean.md","permalink":"/statistics/r-squared-represents-explained-deviation-from-mean/","title":"R Squared represents explained deviation from mean","tags":["PermanentNote"],"updated":"2023-09-28T21:05:50.638+08:00"}
+{"dg-publish":true,"dg-path":"Statistics/R Squared represents explained deviation from mean.md","permalink":"/statistics/r-squared-represents-explained-deviation-from-mean/","title":"R Squared represents explained deviation from mean","tags":["PermanentNote"]}
 ---
 
 
