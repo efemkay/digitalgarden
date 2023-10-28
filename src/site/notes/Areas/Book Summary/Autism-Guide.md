@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Book Summary/Autism-Guide.md","permalink":"/book-summary/autism-guide/","updated":"2023-10-15T10:49:24.967+08:00"}
+{"dg-publish":true,"dg-path":"Book Summary/Autism-Guide.md","permalink":"/book-summary/autism-guide/"}
 ---
 
 
