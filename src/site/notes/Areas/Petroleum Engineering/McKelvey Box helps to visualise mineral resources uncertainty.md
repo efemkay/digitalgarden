@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty.md","permalink":"/petroleum-engineering/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","title":"McKelvey Box helps to visualise mineral resources uncertainty","updated":"2022-10-10T19:25:33.673+08:00"}
+{"dg-publish":true,"dg-path":"Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty.md","permalink":"/petroleum-engineering/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","title":"McKelvey Box helps to visualise mineral resources uncertainty"}
 ---
 
 
