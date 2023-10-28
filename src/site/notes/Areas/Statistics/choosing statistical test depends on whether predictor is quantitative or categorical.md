@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Statistics/choosing statistical test depends on whether predictor is quantitative or categorical.md","permalink":"/statistics/choosing-statistical-test-depends-on-whether-predictor-is-quantitative-or-categorical/","title":"choosing statistical test depends on whether predictor is quantitative or categorical","tags":["PermanentNote"],"updated":"[[journals/2023/03/2023-03-12\|2023-03-12]]"}
+{"dg-publish":true,"dg-path":"Statistics/choosing statistical test depends on whether predictor is quantitative or categorical.md","permalink":"/statistics/choosing-statistical-test-depends-on-whether-predictor-is-quantitative-or-categorical/","title":"choosing statistical test depends on whether predictor is quantitative or categorical","tags":["PermanentNote"],"updated":"2023-03-12"}
 ---
 
 
@@ -20,5 +20,5 @@
 ## Metadata
 - topic:: [[Areas/MOCs/00 Statistics\|00 Statistics]]
 - created:: [[journals/2023/03/2023-03-12\|2023-03-12]]
-- updated:: [[2023-03-12]]
+- updated:: [[journals/2023/03/2023-03-12\|2023-03-12]]
 - #PermanentNote 
