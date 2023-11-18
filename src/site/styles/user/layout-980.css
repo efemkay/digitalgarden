@@ -46,8 +46,8 @@ body {
 
     /* specific width range layout adjustment */
     @media (min-width: 1280px) and (max-width: 2500px) {
-        body.markdown-rendered .content { margin-left: calc( (100vw - var(--page-max-width) - var(--file-margins) - 30px - var(--right-side-width) ) / 2  ); }
-        .sidebar { margin-right: calc((100vw - var(--page-max-width) - var(--file-margins) + var(--left-side-width) ) / 2 - var(--right-side-width) + 30px ); }
+        body.markdown-rendered .content { margin-left: calc( (100vw - var(--page-max-width) - var(--file-margins) - 20px - var(--right-side-width) ) / 2  ); }
+        .sidebar { margin-right: calc((100vw - var(--page-max-width) - var(--file-margins) + var(--left-side-width) ) / 2 - var(--right-side-width) + 20px ); }
         .sidebar-container { flex-direction: column; }
     }
 
