@@ -1,1 +1,110 @@
+body {
+    /***
+      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
+      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+   ***/
+}
 
+/* === Layout === */
+    body.markdown-rendered {
+        --page-max-width: 800px;
+        --left-side-width: 280px;
+        --left-side-margin: 15px;
+        --right-side-width: 300px;
+        --both-side-width: calc( var(--left-side-width) + var(--right-side-width));
+        scroll-behavior: smooth;
+        scroll-padding: 5rem;
+        --list-indent: 1.6em;
+    }
+
+    /* -- non-constrained layout adjustment -- */
+    body.markdown-rendered .filetree-sidebar { width: var(--left-side-width); }
+    body.markdown-rendered .filetree-sidebar > .folder { margin-inline: 0.5em; }
+    body.markdown-rendered .content { max-width: calc(var(--page-max-width) - 40px); }
+    main.content { margin-top: 50px; }
+    .notelink.active-note { transform: unset; }
+
+    /* loose width range layout adjustment */
+    @media (max-width: 500px) {
+        body.markdown-rendered { padding-inline: calc(var(--file-margins) / 1.6); }
+        main.content.content { font-size: 15px; }
+    }
+    @media (max-width: 980px) {
+        .fullpage-overlay, .filetree-sidebar { top: 50px; }
+    }
+    @media (min-width: 1280px) {
+        .sidebar {
+            position: fixed; display: flex; width: var(--right-side-width); z-index: 3;
+            /* top: 75px; right: 0; height: 100%; */
+        }
+        .sidebar-container .toc { display: block; }
+    }
+
+    /* specific width range layout adjustment */
+    @media (min-width: 980px) and (max-width: 1280px) {
+        main.content { margin-left: calc(var(--left-side-width) + var(--left-side-margin)); }
+        .sidebar { max-width: var(--page-max-width); margin-left: var(--left-side-width); }
+    }
+    @media (min-width: 1280px) and (max-width: 1430px) {
+        body.markdown-rendered .content {
+            width: calc((100vw - var(--both-side-width) - var(--file-margins) * 2 - var(--left-side-margin)));
+            margin-left: calc(var(--left-side-width) + var(--left-side-margin));
+        }
+        .sidebar-container { flex-direction: column; }
+    }
+    @media (min-width: 1430px) {
+        body.markdown-rendered .filetree-sidebar {
+            width: calc((100vw - var(--page-max-width)) / 2 - var(--file-margins));
+            padding-left: calc((100vw - var(--page-max-width)) / 2 - 22px - var(--left-side-width));
+        }
+        .sidebar { margin-right: calc((100vw - var(--page-max-width) - var(--file-margins)) / 2 - var(--right-side-width)); }
+    }
+
+
+/* === Minor UI Improvement === */
+
+    /* -- inline header -- */
+    main.content > header { margin-bottom: 2em; }
+    main.content > header .timestamps { margin-top: 0; }
+
+    /* -- header spacing -- */
+    .markdown-rendered :is(h1,h2,h3,h4,h5,h6) { margin-block: 1.5em 0.5em; }
+    /* -- p ul spacing -- */
+    p:has(+ ul) { margin-block-end: 0.2em; }
+    p + ul { margin-block-start: 0.2em; }
+
+    /* -- tighten nav -- */
+    .toc-container nav.toc { padding: 0; }
+    .toc-container nav.toc ol { padding-inline-start: 1em; border-left-width: 0; position: relative; }
+    .toc-container nav.toc ol ol::before { content: ""; position: absolute; border-left: 1px solid var(--background-modifier-border); top: -5px; left: 2px; height: 100%; }
+    .toc-container nav.toc ol:first-of-type { margin-top: 0.5em; }
+    .toc-container nav.toc { font-size: 14px; }
+
+    /* indentation guide for file tree */
+    body.markdown-rendered .folder.inner-folder { position: relative; }
+    body.markdown-rendered .folder.inner-folder::before {
+        content: "";
+        display: block;
+        position: absolute;
+        left: 1.4em; bottom: 0;
+        height: calc(100% - 2em);
+        border-left: 1px solid var(--background-modifier-border);
+    }
+    body.markdown-rendered .foldername-wrapper:has(~ div > .active-note) { color: white; }
+
+    /* content mod only. for layout see above */
+    .filetree-note-icon a.filename[data-note-icon]::before { display: none; }
+    .filetree-sidebar { font-size: 14px; }
+
+    /* -- main content -- */
+    main.content { font-size: 16px; }
+    img { block-size: auto; }
+
+    /* -- Indentation guide for content for bullets */
+    body.markdown-preview-view ul { position: relative; }
+    body.markdown-preview-view ul ul::before {
+        content: "";
+        position: absolute; margin-left: -0.9em; margin-top: 0;
+        border-left: 1px solid var(--background-modifier-border);
+        top: 0; bottom: 0.4em; left: 0;
+    }
