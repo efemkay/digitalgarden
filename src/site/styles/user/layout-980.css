@@ -11,6 +11,7 @@ body {
         --left-side-width: 280px;
         --left-side-margin: 15px;
         --right-side-width: 300px;
+        --right-side-margin: 15px;
         --both-side-width: calc( var(--left-side-width) + var(--right-side-width));
         scroll-behavior: smooth;
         scroll-padding: 5rem;
@@ -29,35 +30,25 @@ body {
         body.markdown-rendered { padding-inline: calc(var(--file-margins) / 1.6); }
         main.content.content { font-size: 15px; }
     }
-    @media (max-width: 980px) {
+    @media (max-width: 1280px) {
+        .sidebar { max-width: var(--page-max-width); }
+    }
+    @media (max-width: 2500px) {
         .fullpage-overlay, .filetree-sidebar { top: 50px; }
+        .fullpage-overlay { position: fixed; }
+        .navbar { position: fixed; }
+        .sidebar-container { padding-right: 10px; }
     }
     @media (min-width: 1280px) {
-        .sidebar {
-            position: fixed; display: flex; width: var(--right-side-width); z-index: 3;
-            /* top: 75px; right: 0; height: 100%; */
-        }
+        .sidebar { position: fixed; display: flex; width: var(--right-side-width); z-index: 3; }
         .sidebar-container .toc { display: block; }
     }
 
     /* specific width range layout adjustment */
-    @media (min-width: 980px) and (max-width: 1280px) {
-        main.content { margin-left: calc(var(--left-side-width) + var(--left-side-margin)); }
-        .sidebar { max-width: var(--page-max-width); margin-left: var(--left-side-width); }
-    }
-    @media (min-width: 1280px) and (max-width: 1430px) {
-        body.markdown-rendered .content {
-            width: calc((100vw - var(--both-side-width) - var(--file-margins) * 2 - var(--left-side-margin)));
-            margin-left: calc(var(--left-side-width) + var(--left-side-margin));
-        }
+    @media (min-width: 1280px) and (max-width: 2500px) {
+        body.markdown-rendered .content { margin-left: calc( (100vw - var(--page-max-width) - var(--file-margins) - 30px - var(--right-side-width) ) / 2  ); }
+        .sidebar { margin-right: calc((100vw - var(--page-max-width) - var(--file-margins) + var(--left-side-width) ) / 2 - var(--right-side-width) + 30px ); }
         .sidebar-container { flex-direction: column; }
-    }
-    @media (min-width: 1430px) {
-        body.markdown-rendered .filetree-sidebar {
-            width: calc((100vw - var(--page-max-width)) / 2 - var(--file-margins));
-            padding-left: calc((100vw - var(--page-max-width)) / 2 - 22px - var(--left-side-width));
-        }
-        .sidebar { margin-right: calc((100vw - var(--page-max-width) - var(--file-margins)) / 2 - var(--right-side-width)); }
     }
 
 
