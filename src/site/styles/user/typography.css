@@ -204,4 +204,8 @@
 			--link-decoration: none;
 		}
 
+/* === Digital Garden specific overwrite === */
+.content { font-size: 16px; }
+.filetree-sidebar { font-size: 14px; }
+.toc-container nav.toc { font-size: 14px; }
 
