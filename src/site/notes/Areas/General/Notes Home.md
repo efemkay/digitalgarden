@@ -24,17 +24,17 @@ If you want to understand further how I structure my notes, I lay it out in [[Ar
 
 ---
 
-| File                                                                                                                                                    | file.mday        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Areas/Book Summary/Autism-Guide\|Autism-Guide]]                                                                                                    | October 15, 2023 |
-| [[Areas/Coding/StackEdit custom css for Blogger\|StackEdit custom css for Blogger]]                                                                  | August 30, 2023  |
-| [[Areas/Engineering Economics/IRR has 3 key pitfalls to watch out for\|IRR has 3 key pitfalls to watch out for]]                                     | October 15, 2023 |
-| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]] | October 18, 2023 |
-| [[Areas/General/About My Notes\|About My Notes]]                                                                                                     | October 14, 2023 |
-| [[Areas/General/Notes Home\|Notes Home]]                                                                                                             | October 15, 2023 |
-| [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]]                                                                                    | October 14, 2023 |
-| [[Areas/MOCs/00 Health\|00 Health]]                                                                                                                  | October 15, 2023 |
-| [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]                                                                                    | October 14, 2023 |
-| [[Areas/MOCs/00 Productivity\|00 Productivity]]                                                                                                      | October 14, 2023 |
+| File                                                                                                                                                                                          | file.mday        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Areas/Book Summary/Autism-Guide\|Autism-Guide]]                                                                                                                                          | October 15, 2023 |
+| [[Areas/Coding/css container create isolation or containment for css variable\|css container create isolation or containment for css variable]]                                            | January 26, 2024 |
+| [[Areas/Coding/StackEdit custom css for Blogger\|StackEdit custom css for Blogger]]                                                                                                        | August 30, 2023  |
+| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]                                       | October 18, 2023 |
+| [[Areas/Engineering Economics/IRR has 3 key pitfalls to watch out for\|IRR has 3 key pitfalls to watch out for]]                                                                           | October 15, 2023 |
+| [[Areas/General/About My Notes\|About My Notes]]                                                                                                                                           | October 14, 2023 |
+| [[Areas/General/Notes Home\|Notes Home]]                                                                                                                                                   | October 15, 2023 |
+| [[Areas/General/Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic\|Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic]] | March 08, 2024   |
+| [[Areas/MOCs/00 Health\|00 Health]]                                                                                                                                                        | October 15, 2023 |
+| [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]]                                                                                                                          | October 14, 2023 |
 
 { .block-language-dataview}
