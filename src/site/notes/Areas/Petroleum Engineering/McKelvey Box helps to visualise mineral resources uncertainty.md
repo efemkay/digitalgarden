@@ -5,9 +5,9 @@
 
 - #### McKelvey’s Box is a simple device/diagram for visualizing categories of oil and mineral reserves and resources that shows level of uncertainty and risk
 	- The original McKelvey box (with SPE-AAPG-WPC terminology) shows basic terminology with simple uncertainty grouping
-		- ![McKelvey Box bgcolor](https://subsurfwiki.org/images/thumb/5/55/Simple_McKelvey_box.svg/450px-Simple_McKelvey_box.svg.png)
+		- ![Original_McKelvey_Diagram_published_in_1973.png (736×703) (wikimedia.org)](https://upload.wikimedia.org/wikipedia/commons/7/72/Original_McKelvey_Diagram_published_in_1973.png)
 	- The updated/modern (updated by a joint working group of the SPE, AAPG and WPC), reoqrganized and subdivided by probabilistic uncertainties (i.e. 1P, 2P, 3P)
-		- ![bgcolor](https://subsurfwiki.org/images/thumb/f/fe/McKelvey_box.svg/750px-McKelvey_box.svg.png)
+		- ![bgcolor](https://images.squarespace-cdn.com/content/549dcda5e4b0a47d0ae1db1e/1419800422474-2U4VFWA5E8PQM2T8FH9X/8505493-14689722-thumbnail.jpg?content-type=image%2Fpng)
 - #### It was developed to avoid ambiguity in communication (in reporting of natural resources) and contains the following basic idea
 	- only discovered, commercially-viable deposits get to be called **Reserves**.
 	- Discovered but sub-commercial (with today's technology and pricing) are **contingent resources**.
