@@ -1,16 +1,25 @@
 ---
-{"dg-publish":true,"dg-path":"Statistics/R Squared represents explained deviation from mean.md","permalink":"/statistics/r-squared-represents-explained-deviation-from-mean/","title":"R Squared represents explained deviation from mean","tags":["PermanentNote"]}
+{"dg-publish":true,"dg-path":"Statistics/R Squared represents explained deviation from mean.md","permalink":"/statistics/r-squared-represents-explained-deviation-from-mean/","title":"R Squared represents explained deviation from mean","tags":["PermanentNote"],"created":"2022-09-10","updated":"2024-05-07"}
 ---
 
 
 - #### SSR represents expected deviation while SSE is the unexplained deviation
 	- SSR represents the ==expected (or explained) deviation from the mean==. In another word, if we have a prediction line that’s not the same as the average, this deviation (represented by m and c in y = mx + c) is the expected deviation that is accounted for by the prediction formula
 	- SSE meanwhile represents the unexplained part, where the prediction value surpassed the expected deviation from the mean. E.g. $\bar{y}=5$ and $\hat{y}=7$ while $y=9$, this means $SSE = (9-7)^2$
-	- Because of this [[Areas/Public/extreme values can misleadingly improve R squared\|extreme values can misleadingly improve R squared]]
+	- Because of this [[Areas/Statistics/extreme values can misleadingly improve R squared\|extreme values can misleadingly improve R squared]]
 - #### R Squared tells us the proportion of the variance in the response variable of a regression model that can be explained by the predictor variables. 
 	- By this virtue, the R Squared with its formula i.e. $R^2=SSR/SST$ (where SST is sum of SSR and SSE) is representing how much the regression line (or the prediction line) can explain the deviation from the mean. The remaining is basically unexplained deviation (SSE).
 	- This value ranges from 0 to 1. The higher the R2 value, the better a model fits a dataset.
-	- R is Pearson Correlation Coefficient
+	- **R is Pearson Correlation Coefficient**
+		- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+	- Formula to find the Pearson correlation coefficient, denoted as _R_ 
+
+</div></div>
+
 - #### Formula References
 	- $R^2= SSR/SST$
 	- $SSR = \sum (\hat{y}_{i}-\bar{y})^{2}$
@@ -32,12 +41,5 @@
 > - Coefficient of Determination (R²) | Calculation & Interpretation - Scribbr. https://www.scribbr.com/statistics/coefficient-of-determination/.
 > - Coefficient of determination - Wikipedia. https://en.wikipedia.org/wiki/Coefficient_of_determination.
 
-
 ## References
 - [What is Regression? / SSE, SSR, SST / R-squared / Errors (ε vs. e) - YouTube](https://www.youtube.com/watch?v=aq8VU5KLmkY)
-
-## Metadata
-- topic:: [[Areas/MOCs/00 Statistics\|00 Statistics]]
-- created:: [[journals/2022/09/2022-09-10\|2022-09-10]]
-- updated:: [[journals/2023/05/2023-05-25\|2023-05-25]]
-- #PermanentNote 
