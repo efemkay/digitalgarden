@@ -24,17 +24,17 @@ If you want to understand further how I structure my notes, I lay it out in [[Ar
 
 ---
 
-| File                                                                                                                                                                                          | file.mday        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Areas/Book Summary/Autism-Guide\|Autism-Guide]]                                                                                                                                          | October 15, 2023 |
-| [[Areas/Coding/css container create isolation or containment for css variable\|css container create isolation or containment for css variable]]                                            | January 26, 2024 |
-| [[Areas/Coding/StackEdit custom css for Blogger\|StackEdit custom css for Blogger]]                                                                                                        | August 30, 2023  |
-| [[Areas/Engineering Economics/IRR has 3 key pitfalls to watch out for\|IRR has 3 key pitfalls to watch out for]]                                                                           | October 15, 2023 |
-| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]                                       | October 18, 2023 |
-| [[Areas/General/About My Notes\|About My Notes]]                                                                                                                                           | October 14, 2023 |
-| [[Areas/General/crude is sour when sulphur level exceeds 0.5pct or 5000ppm\|crude is sour when sulphur level exceeds 0.5pct or 5000ppm]]                                                   | May 16, 2024     |
-| [[Areas/General/Notes Home\|Notes Home]]                                                                                                                                                   | October 15, 2023 |
-| [[Areas/General/plaza premium lounge\|plaza premium lounge]]                                                                                                                               | May 03, 2024     |
-| [[Areas/General/Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic\|Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic]] | March 08, 2024   |
+| File                                                                                                                                                                                          | file.mday         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Areas/General/Notes Home\|Notes Home]]                                                                                                                                                   | May 24, 2024      |
+| [[Areas/General/crude is sour when sulphur level exceeds 0.5pct or 5000ppm\|crude is sour when sulphur level exceeds 0.5pct or 5000ppm]]                                                   | May 16, 2024      |
+| [[Areas/Statistics/R Squared represents explained deviation from mean\|R Squared represents explained deviation from mean]]                                                                | May 07, 2024      |
+| [[Areas/General/what to do to change new phone\|what to do to change new phone]]                                                                                                           | May 06, 2024      |
+| [[Areas/General/plaza premium lounge\|plaza premium lounge]]                                                                                                                               | May 03, 2024      |
+| [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]]                               | April 20, 2024    |
+| [[Areas/General/Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic\|Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic]] | March 08, 2024    |
+| [[Areas/Coding/css container create isolation or containment for css variable\|css container create isolation or containment for css variable]]                                            | January 26, 2024  |
+| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                                                    | November 17, 2023 |
+| [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                                                    | November 06, 2023 |
 
 { .block-language-dataview}
