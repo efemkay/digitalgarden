@@ -8,9 +8,10 @@
 			hsl(217, 8%, 34%) -- buttons (lightest)
 		*/
 		--background-primary: hsl(220, 8%, 23%);
-		--background-modifier-cover: hsl(223, 7%, 20%);
 		--background-secondary: hsl(218, 8%, 27%);
 		--background-secondary-alt: hsl(218, 8%, 21%);	/* 6% darker than secondary */
+		--background-modifier-border: hsl(20, 5%, 33%);
+		--background-modifier-cover: hsl(223, 7%, 20%);
 		--background-accent: hsl(223, 7%, 30%);			/* 10% lighter than modifier-cover */
 		--background-accent-alt: hsl(220, 8%, 19%);		/* 4% darker shade of background-primary, active line and backlinks */
 
@@ -19,9 +20,9 @@
 	}
 	.theme-light {
 		--background-primary: hsl(220, 16%, 92%);
-		--background-modifier-cover: hsl(223, 14%, 85%);
 		--background-secondary: hsl(218, 16%, 85%);
 		--background-secondary-alt: hsl(218, 16%, 81%);	/* 6% darker than secondary */
+		--background-modifier-cover: hsl(223, 14%, 85%);
 		--background-accent: hsl(223, 14%, 90%);
 		--background-accent-alt: hsl(220, 16%, 88%);		/* 4% darker shade of background-primary, active line and backlinks */
 
