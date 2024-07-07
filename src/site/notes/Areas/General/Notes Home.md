@@ -16,7 +16,7 @@ If you want to understand further how I structure my notes, I lay it out in [[Ar
 - [[Areas/General/About My Notes\|About My Notes]]
 
 ## MOC
-- [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]] #mcl/list-grid 
+- [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]] #mcl/list-card
 - [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
 - [[Areas/MOCs/00 Productivity\|00 Productivity]]
 - [[Areas/MOCs/00 Statistics\|00 Statistics]]
@@ -26,7 +26,7 @@ If you want to understand further how I structure my notes, I lay it out in [[Ar
 
 | File                                                                                                                                                                                          | file.mday         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Areas/General/Notes Home\|Notes Home]]                                                                                                                                                   | May 24, 2024      |
+| [[Areas/General/Notes Home\|Notes Home]]                                                                                                                                                   | July 07, 2024     |
 | [[Areas/General/crude is sour when sulphur level exceeds 0.5pct or 5000ppm\|crude is sour when sulphur level exceeds 0.5pct or 5000ppm]]                                                   | May 16, 2024      |
 | [[Areas/Statistics/R Squared represents explained deviation from mean\|R Squared represents explained deviation from mean]]                                                                | May 07, 2024      |
 | [[Areas/General/what to do to change new phone\|what to do to change new phone]]                                                                                                           | May 06, 2024      |
