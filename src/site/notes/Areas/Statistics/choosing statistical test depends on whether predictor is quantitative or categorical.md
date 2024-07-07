@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Statistics/choosing statistical test depends on whether predictor is quantitative or categorical.md","permalink":"/statistics/choosing-statistical-test-depends-on-whether-predictor-is-quantitative-or-categorical/","title":"choosing statistical test depends on whether predictor is quantitative or categorical","tags":["PermanentNote"],"updated":"2023-03-12"}
+{"dg-publish":true,"dg-path":"Statistics/choosing statistical test depends on whether predictor is quantitative or categorical.md","permalink":"/statistics/choosing-statistical-test-depends-on-whether-predictor-is-quantitative-or-categorical/","title":"choosing statistical test depends on whether predictor is quantitative or categorical","tags":["PermanentNote"],"created":"2023-03-12","updated":"2023-03-12"}
 ---
 
 

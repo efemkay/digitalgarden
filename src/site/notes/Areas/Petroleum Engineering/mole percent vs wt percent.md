@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Petroleum Engineering/mole percent vs wt percent.md","permalink":"/petroleum-engineering/mole-percent-vs-wt-percent/"}
+{"dg-publish":true,"dg-path":"Petroleum Engineering/mole percent vs wt percent.md","permalink":"/petroleum-engineering/mole-percent-vs-wt-percent/","tags":["PermanentNote"],"created":"2023-01-17","updated":"2023-05-04"}
 ---
 
 
@@ -22,8 +22,3 @@
 - Secondary
 	- [Mole and Equivalent Weight: Titration, Calculations, Examples, Videos (toppr.com)](https://www.toppr.com/guides/chemistry/some-basic-concepts-of-chemistry/mole-and-equivalent-weight/)
 
-## Metadata
-- topic:: [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
-- created:: [[journals/2023/01/2023-01-17\|2023-01-17]]
-- updated:: [[journals/2023/05/2023-05-04\|2023-05-04]]
-- #PermanentNote 
