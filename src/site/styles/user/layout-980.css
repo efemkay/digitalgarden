@@ -91,6 +91,9 @@ body {
     main.content { font-size: 16px; }
     img { block-size: auto; }
 
+    /* -- header tags and timestamps */
+    .header-tags { float: right; line-height: 1; }
+
     /* -- Indentation guide for content for bullets */
     body.markdown-preview-view ul { position: relative; }
     body.markdown-preview-view ul ul::before {
@@ -99,3 +102,5 @@ body {
         border-left: 1px solid var(--background-modifier-border);
         top: 0; bottom: 0.4em; left: 0;
     }
+    /* -- adjust first bullet left margin for better alignment with normal para */
+    main.content > ul { margin-inline-start: calc(var(--list-indent) * -0.25) }
