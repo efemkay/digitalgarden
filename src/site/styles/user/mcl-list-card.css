@@ -1,0 +1,30 @@
+body {
+    --mcl-card-header-border-width: 1px;
+    --mcl-card-bg-color: var(--background-secondary);
+    --mcl-card-gap: 0.3em;
+    --mcl-card-border-width: 1px;
+    --mcl-card-border-color: var(--background-modifier-border);
+    --list-grid-min-width: 200px;
+}
+:not(code) > a[data-content="#mcl/list-card"] { display: none; }
+ul:has([data-content="#mcl/list-card"]) {
+    display: grid; grid-template-columns: repeat(auto-fit,minmax(var(--list-grid-min-width),1fr));
+    padding-left: 0;
+    gap: var(--mcl-card-gap);
+    margin-top: 1em;
+}
+ul:has([data-content="#mcl/list-card"]) ul { font-size: 0.9em; }
+ul:has([data-content="#mcl/list-card"]) ul:not(ul ul ul) { padding-left: 0.1em; }
+ul:has([data-content="#mcl/list-card"]) > li {
+    /* margin-inline: var(--mcl-card-gap); margin-bottom: calc(var(--mcl-card-gap)*2); */
+    padding: 0.3em 0.5em; outline: var(--mcl-card-border-width) solid var(--mcl-card-border-color); border-radius: 0.5em; background-color: var(--mcl-card-bg-color);
+}
+
+/* remove marker */
+ul:has([data-content="#mcl/list-card"]) > li::marker,
+ul:has([data-content="#mcl/list-card"]) > li li::marker { color: transparent; }
+
+/* remove indentation guide */
+.markdown-preview-view ul:has([data-content="#mcl/list-card"]) ul::before {
+    border-left: none;
+}
