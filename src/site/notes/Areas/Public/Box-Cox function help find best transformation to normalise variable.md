@@ -4,7 +4,7 @@
 
 
 - #### Box-Cox transformation will do series of test to find the best transformation method to normalise your variable
-	- This is useful when you’re working on a more complex variable and the suitable method for normalising the variable isn’t visually clear. See [[Areas/General/transformation can make relationship linear\|transformation can make relationship linear]]
+	- This is useful when you’re working on a more complex variable and the suitable method for normalising the variable isn’t visually clear. See [[Areas/Statistics/transformation can make relationship linear\|transformation can make relationship linear]]
 	- As this is iterative in nature, I don’t think it’s possible to do manually like other transformation. Snippet below is R code to run the transformation
 		```r
 		boxcox(object,    # lm or aov objects or formulas

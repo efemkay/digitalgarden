@@ -3,5 +3,8 @@
 ---
 
 
-
 #MOC  / `Hub for notes related to general statistical knowledge`
+
+```query
+
+```
