@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Statistics/use t test to determine if two groups have significant differences.md","permalink":"/statistics/use-t-test-to-determine-if-two-groups-have-significant-differences/","title":"use t test to determine if two groups have significant differences","tags":["PermanentNote"],"updated":"2023-10-28"}
+{"dg-publish":true,"dg-path":"Statistics/use t test to determine if two groups have significant differences.md","permalink":"/statistics/use-t-test-to-determine-if-two-groups-have-significant-differences/","title":"use t test to determine if two groups have significant differences","tags":["PermanentNote"],"created":"2023-10-28","updated":"2023-10-28"}
 ---
 
 
@@ -38,9 +38,3 @@
 ## References 
 - [An Introduction to t Tests | Definitions, Formula and Examples (scribbr.com)](https://www.scribbr.com/statistics/t-test/) 
 - [One-Tailed and Two-Tailed Hypothesis Tests Explained - Statistics By Jim](https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/)
-
-## Metadata
-- topic:: [[Areas/MOCs/00 Statistics\|00 Statistics]]
-- created:: [[journals/2023/10/2023-10-28\|2023-10-28]]
-- updated:: [[journals/2023/10/2023-10-28\|2023-10-28]]
-- #PermanentNote 

@@ -3,38 +3,40 @@
 ---
 
 
-My insightful notes are primarily on [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]] and [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]. But I also dabbled on [[Areas/MOCs/00 Statistics\|00 Statistics]] and [[Areas/MOCs/00 Coding\|00 Coding]] as I expand my initiatives towards big data and PKM. Follow the feed below, or simply use the search ;)
-
-If you want to understand further how I structure my notes, I lay it out in [[Areas/General/About My Notes\|About My Notes]] . Btw, this digital garden is using [oleeskild/obsidian-digital-garden (github.com)](https://github.com/oleeskild/obsidian-digital-garden) with quite a number of my personal tweaks.
-
-## My Home
-- [[Areas/MOCs/00 Statistics\|00 Statistics]]
-- [[Areas/Statistics/R Squared represents explained deviation from mean\|R Squared represents explained deviation from mean]]
-- [[Areas/Book Summary/Autism-Guide\|Autism-Guide]]
-- [[Areas/Coding/StackEdit custom css for Blogger\|StackEdit custom css for Blogger]]
-- [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]]
-- [[Areas/General/About My Notes\|About My Notes]]
-
-## MOC
+Hey there! This is my digital garden – a lifelong learning notes to help with my career and hobby. My insightful notes are primarily on [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]] and [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]. But I also dabbled on [[Areas/MOCs/00 Statistics\|00 Statistics]] and [[Areas/MOCs/00 Coding\|00 Coding]] as I expand my initiatives towards big data and PKM. Below is my top MOC but there a few more (which you can browse via the hamburger menu). If you’re looking for something specific it might be easier to simply use the search (top right corner)
 - [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]] #mcl/list-card
 - [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
 - [[Areas/MOCs/00 Productivity\|00 Productivity]]
 - [[Areas/MOCs/00 Statistics\|00 Statistics]]
 - [[Areas/MOCs/00 Investing\|00 Investing]]
 
+If you want to understand further how I structure my notes, including how I publish this, I lay it out in [[Areas/General/About My Notes\|About My Notes]] . Btw, this digital garden is using [oleeskild/obsidian-digital-garden (github.com)](https://github.com/oleeskild/obsidian-digital-garden) with quite a number of my personal tweaks.
+
+If you want to know what are my latest notes, table below shows the recently updated and recently added notes.
+
 ---
 
-| File                                                                                                                                                                                                                        | file.mday     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[Areas/MOCs/00 Statistics\|00 Statistics]]                                                                                                                                                                              | July 08, 2024 |
-| [[Areas/Public/Improved Obsidian query with NIL Query Control and custom css\|Improved Obsidian query with NIL Query Control and custom css]]                                                                            | July 08, 2024 |
-| [[Areas/Public/obsidian query and search cheat sheet\|obsidian query and search cheat sheet]]                                                                                                                            | July 08, 2024 |
-| [[Areas/Public/Obsidian Query Control plugin refine how the output looks like\|Obsidian Query Control plugin refine how the output looks like]]                                                                          | July 08, 2024 |
-| [[Areas/Statistics/transformation can make relationship linear\|transformation can make relationship linear]]                                                                                                            | July 08, 2024 |
-| [[Areas/Engineering Economics/commercial volume cut-off is to ensure positive development decision can follow a discovery\|commercial volume cut-off is to ensure positive development decision can follow a discovery]] | July 07, 2024 |
-| [[Areas/General/Notes Home\|Notes Home]]                                                                                                                                                                                 | July 07, 2024 |
-| [[Areas/Listive Theme/Listive-Docs/Alternate Checkbox\|Alternate Checkbox]]                                                                                                                                              | July 07, 2024 |
-| [[Areas/Petroleum Engineering/mole percent vs wt percent\|mole percent vs wt percent]]                                                                                                                                   | July 07, 2024 |
-| [[Areas/Public/API gravity is the biggest influence in crude oil price\|API gravity is the biggest influence in crude oil price]]                                                                                        | July 07, 2024 |
+| Top 10 Recently Updated                                                                                                                                                 | Updated On                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Areas/Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12\|a mole of anything contains as many particles as 12g of carbon-12]] | [[journals/2023/05/2023-05-04\|2023-05-04]] |
+| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                              | [[journals/2023/01/2023-01-21\|2023-01-21]] |
+| [[Areas/Public/Box-Cox function help find best transformation to normalise variable\|Box-Cox function help find best transformation to normalise variable]]          | [[journals/2022/10/2022-10-10\|2022-10-10]] |
+| [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                              | [[journals/2022/08/2022-08-03\|2022-08-03]] |
+| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]                 | [[journals/2022/07/2022-07-21\|2022-07-21]] |
+| [[Areas/Coding/StackEdit custom css for Blogger\|StackEdit custom css for Blogger]]                                                                                  | [[journals/2022/07/2022-07-02\|2022-07-02]] |
+| [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]]         | [[journals/2022/06/2022-06-22\|2022-06-22]] |
+| [[Areas/Book Summary/Autism-Guide\|Autism-Guide]]                                                                                                                    | [[journals/2022/02/2022-02-07\|2022-02-07]] |
+| [[Areas/Engineering Economics/IRR has 3 key pitfalls to watch out for\|IRR has 3 key pitfalls to watch out for]]                                                     | [[journals/2022/01/2022-01-12\|2022-01-12]] |
+| [[Areas/Public/API gravity is the biggest influence in crude oil price\|API gravity is the biggest influence in crude oil price]]                                    | [[2023-01-27\|2023-01-27]]                     |
+
+{ .block-language-dataview}
+
+| Top 5 Recently Added                                                                                                                                                    | Added On                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Areas/Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12\|a mole of anything contains as many particles as 12g of carbon-12]] | [[journals/2023/05/2023-05-04\|2023-05-04]] |
+| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                              | [[journals/2023/01/2023-01-21\|2023-01-21]] |
+| [[Areas/Public/API gravity is the biggest influence in crude oil price\|API gravity is the biggest influence in crude oil price]]                                    | [[journals/2022/09/2022-09-08\|2022-09-08]] |
+| [[Areas/Listive Theme/Listive-Docs/Alternate Checkbox\|Alternate Checkbox]]                                                                                          | July 07, 2024                                  |
+| [[Areas/General/what to do to change new phone\|what to do to change new phone]]                                                                                     | May 06, 2024                                   |
 
 { .block-language-dataview}

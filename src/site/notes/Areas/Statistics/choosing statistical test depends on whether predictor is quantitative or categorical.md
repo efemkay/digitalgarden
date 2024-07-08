@@ -16,9 +16,3 @@
 
 ## References
 - Bevans, R. (2022, December 5). _Choosing the Right Statistical Test | Types & Examples_. Scribbr. https://www.scribbr.com/statistics/statistical-tests/
-
-## Metadata
-- topic:: [[Areas/MOCs/00 Statistics\|00 Statistics]]
-- created:: [[journals/2023/03/2023-03-12\|2023-03-12]]
-- updated:: [[journals/2023/03/2023-03-12\|2023-03-12]]
-- #PermanentNote 
