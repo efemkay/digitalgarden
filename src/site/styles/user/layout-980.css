@@ -20,7 +20,7 @@ body {
 
     /* -- non-constrained layout adjustment -- */
     body.markdown-rendered .filetree-sidebar { width: var(--left-side-width); }
-    body.markdown-rendered .filetree-sidebar > .folder { margin-inline: 0.5em; }
+    body.markdown-rendered .filetree-sidebar > .folder { margin-inline: 0.5em; padding-block-start: 1em; }
     body.markdown-rendered .content { max-width: calc(var(--page-max-width) - 40px); }
     main.content { margin-top: 50px; }
     .notelink.active-note { transform: unset; }
@@ -30,11 +30,14 @@ body {
         body.markdown-rendered { padding-inline: calc(var(--file-margins) / 1.6); }
         main.content.content { font-size: 15px; }
     }
+    @media (max-width: 800px) {
+        .fullpage-overlay, .filetree-sidebar { top: 50px; }
+    }
     @media (max-width: 1280px) {
         .sidebar { max-width: var(--page-max-width); }
     }
     @media (max-width: 2500px) {
-        .fullpage-overlay, .filetree-sidebar { top: 50px; }
+        .fullpage-overlay, .filetree-sidebar { top: 62px; }
         .fullpage-overlay { position: fixed; }
         .navbar { position: fixed; }
         .sidebar-container { padding-right: 10px; }
@@ -64,12 +67,19 @@ body {
     p:has(+ ul) { margin-block-end: 0.2em; }
     p + ul { margin-block-start: 0.2em; }
 
-    /* -- tighten nav -- */
+    /* -- TOC tighten nav -- */
     .toc-container nav.toc { padding: 0; }
     .toc-container nav.toc ol { padding-inline-start: 1em; border-left-width: 0; position: relative; }
-    .toc-container nav.toc ol ol::before { content: ""; position: absolute; border-left: 1px solid var(--background-modifier-border); top: -5px; left: 2px; height: 100%; }
+    .toc-container nav.toc ol ol::before { content: ""; position: absolute; border-left: 1px solid var(--background-modifier-border); top: -5px; left: -0.65em; height: 100%; }
     .toc-container nav.toc ol:first-of-type { margin-top: 0.5em; }
     .toc-container nav.toc { font-size: 14px; }
+    
+    /* -- TOC. prettify the hashtag bullet -- */
+    .toc-container li::before { color: var(--text-normal); margin-inline-start: -1em; }
+    .toc-container nav.toc ol { padding-inline-start: 1.4em; }
+
+    /* -- Backlink. adjust icon size and nudge it a bit -- */
+    .backlink-card svg.svg-icon { --icon-size: var(--icon-s); margin-block-end: -2px; }
 
     /* indentation guide for file tree */
     body.markdown-rendered .folder.inner-folder { position: relative; }
@@ -86,6 +96,8 @@ body {
     /* content mod only. for layout see above */
     .filetree-note-icon a.filename[data-note-icon]::before { display: none; }
     .filetree-sidebar { font-size: 14px; }
+    .filetree-sidebar > a { display: none; } /* remove site title on sidebar */
+    .filetree-sidebar .search-button { display: none; } /* remove search bar on sidebar */
 
     /* -- main content -- */
     main.content { font-size: 16px; }
