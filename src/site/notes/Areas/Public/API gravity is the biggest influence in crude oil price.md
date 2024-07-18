@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Public/API gravity is the biggest influence in crude oil price.md","permalink":"/public/api-gravity-is-the-biggest-influence-in-crude-oil-price/","title":"API gravity is the biggest influence in crude oil price","tags":["PermanentNote"]}
+{"dg-publish":true,"dg-path":"Public/API gravity is the biggest influence in crude oil price.md","permalink":"/public/api-gravity-is-the-biggest-influence-in-crude-oil-price/","title":"API gravity is the biggest influence in crude oil price","tags":["PermanentNote"],"created":"2022-09-08","updated":"2023-01-27"}
 ---
 
 
@@ -49,9 +49,3 @@
 ## References
 - [What is the API Gravity of Crude Oil? (oilandgasoverview.com)](https://oilandgasoverview.com/what-is-the-api-gravity-of-crude-oil/)
 - [What is Crude Oil Made Of? Composition of Crude Oil (oilandgasoverview.com)](https://oilandgasoverview.com/what-is-crude-oil-made-of-composition-of-crude-oil/)
-
-## Metadata
-- topic:: [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
-- created:: [[journals/2022/09/2022-09-08\|2022-09-08]]
-- updated:: [[2023-01-27\|2023-01-27]]
-- #PermanentNote 

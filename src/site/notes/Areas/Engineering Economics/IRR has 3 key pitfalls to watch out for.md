@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Engineering Economics/IRR has 3 key pitfalls to watch out for.md","permalink":"/engineering-economics/irr-has-3-key-pitfalls-to-watch-out-for/","title":"IRR has 3 key pitfalls to watch out for","tags":["PermanentNote"]}
+{"dg-publish":true,"dg-path":"Engineering Economics/IRR has 3 key pitfalls to watch out for.md","permalink":"/engineering-economics/irr-has-3-key-pitfalls-to-watch-out-for/","title":"IRR has 3 key pitfalls to watch out for","tags":["PermanentNote"],"created":"2022-01-12","updated":"2022-01-12"}
 ---
 
 
@@ -11,9 +11,3 @@
 	    - this is due to IRR calculation finds the discount rate that makes total positive NCF equals to total negative NCF. When there is a significant series of positive NCF before an investment “period”, this creates a series of lending and borrowing – each will fight for the discount rate to be on the polar opposite
 	- #### Nonexistent IRR
 	    - if the opposite cashflow is non-significant there will be no discount rate that makes the NPV equal to zero
-
-## Metadata
-- topic:: [[Areas/MOCs/00 Engineering Economics\|00 Engineering Economics]]
-- updated:: [[journals/2022/01/2022-01-12\|2022-01-12]]
-- reviewed:: [[journals/2022/01/2022-01-12\|2022-01-12]]
-- #PermanentNote 

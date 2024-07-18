@@ -1,16 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Book Summary/Autism-Guide.md","permalink":"/book-summary/autism-guide/"}
+{"dg-publish":true,"dg-path":"Book Summary/Autism-Guide.md","permalink":"/book-summary/autism-guide/","tags":["BookSummary"],"updated":"2022-02-07"}
 ---
 
 
 - #### Metadata
-	- topic:: [[Areas/MOCs/00 Health\|00 Health]]
-	- updated:: [[journals/2022/02/2022-02-07\|2022-02-07]]
-	- reviewed:: [[journals/2022/02/2022-02-07\|2022-02-07]]
 	- author:: Joseph Barber (MD)
-	- #BookSummary 
 
-[[Areas/General/Notes Home\|Notes Home]]
 ## Personal Summary
 
 ## Summary by Chapter

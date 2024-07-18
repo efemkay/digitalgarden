@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Coding/StackEdit custom css for Blogger.md","permalink":"/coding/stack-edit-custom-css-for-blogger/","title":"StackEdit custom css for Blogger"}
+{"dg-publish":true,"dg-path":"Coding/StackEdit custom css for Blogger.md","permalink":"/coding/stack-edit-custom-css-for-blogger/","title":"StackEdit custom css for Blogger","tags":["FleetingNote"],"updated":"2022-07-02"}
 ---
 
 
@@ -14,10 +14,7 @@
 		</div>
 		```
 
-## Metadata
-- topic:: [[Areas/MOCs/00 Coding\|00 Coding]]
-	- related:: [[Areas/Public/CSS Notes\|CSS Notes]]
-- updated:: [[journals/2022/07/2022-07-02\|2022-07-02]]
-- reviewed:: [[journals/2022/07/2022-07-02\|2022-07-02]]
-- #FleetingNote #toexpand 
-	- Add outliner snippet i just did for blogger
+> [!todo]
+> - related:: [[Areas/Public/CSS Notes\|CSS Notes]]
+> - [ ] Add outliner snippet i just did for blogger #toexpand 
+

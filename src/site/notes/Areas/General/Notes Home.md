@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"General/Notes Home.md","permalink":"/general/notes-home/","title":"Notes Home","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowToc":"false"}
+{"dg-publish":true,"dg-path":"General/Notes Home.md","permalink":"/general/notes-home/","title":"Efemkay Notes","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowToc":"false"}
 ---
 
 
@@ -16,27 +16,27 @@ If you want to know what are my latest notes, table below shows the recently upd
 
 ---
 
-| Top 10 Recently Updated                                                                                                                                                 | Updated On                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [[Areas/Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12\|a mole of anything contains as many particles as 12g of carbon-12]] | [[journals/2023/05/2023-05-04\|2023-05-04]] |
-| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                              | [[journals/2023/01/2023-01-21\|2023-01-21]] |
-| [[Areas/Public/Box-Cox function help find best transformation to normalise variable\|Box-Cox function help find best transformation to normalise variable]]          | [[journals/2022/10/2022-10-10\|2022-10-10]] |
-| [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                              | [[journals/2022/08/2022-08-03\|2022-08-03]] |
-| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]                 | [[journals/2022/07/2022-07-21\|2022-07-21]] |
-| [[Areas/Coding/StackEdit custom css for Blogger\|StackEdit custom css for Blogger]]                                                                                  | [[journals/2022/07/2022-07-02\|2022-07-02]] |
-| [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]]         | [[journals/2022/06/2022-06-22\|2022-06-22]] |
-| [[Areas/Book Summary/Autism-Guide\|Autism-Guide]]                                                                                                                    | [[journals/2022/02/2022-02-07\|2022-02-07]] |
-| [[Areas/Engineering Economics/IRR has 3 key pitfalls to watch out for\|IRR has 3 key pitfalls to watch out for]]                                                     | [[journals/2022/01/2022-01-12\|2022-01-12]] |
-| [[Areas/Public/API gravity is the biggest influence in crude oil price\|API gravity is the biggest influence in crude oil price]]                                    | [[2023-01-27\|2023-01-27]]                     |
+| Top 10 Recently Updated                                                                                                                                         | Updated On                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                      | [[journals/2023/01/2023-01-21\|2023-01-21]] |
+| [[Areas/Public/Box-Cox function help find best transformation to normalise variable\|Box-Cox function help find best transformation to normalise variable]]  | [[journals/2022/10/2022-10-10\|2022-10-10]] |
+| [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                      | [[journals/2022/08/2022-08-03\|2022-08-03]] |
+| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]         | [[journals/2022/07/2022-07-21\|2022-07-21]] |
+| [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]] | [[journals/2022/06/2022-06-22\|2022-06-22]] |
+| [[Areas/General/ergonomic chair design\|ergonomic chair design]]                                                                                             | July 09, 2024                                  |
+| [[Areas/Public/obsidian query and search cheat sheet\|obsidian query and search cheat sheet]]                                                                | July 08, 2024                                  |
+| [[Areas/Listive Theme/Listive-Docs/Alternate Checkbox\|Alternate Checkbox]]                                                                                  | July 07, 2024                                  |
+| [[Areas/Statistics/R Squared represents explained deviation from mean\|R Squared represents explained deviation from mean]]                                  | May 07, 2024                                   |
+| [[Areas/General/what to do to change new phone\|what to do to change new phone]]                                                                             | May 06, 2024                                   |
 
 { .block-language-dataview}
 
-| Top 5 Recently Added                                                                                                                                                    | Added On                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [[Areas/Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12\|a mole of anything contains as many particles as 12g of carbon-12]] | [[journals/2023/05/2023-05-04\|2023-05-04]] |
-| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                              | [[journals/2023/01/2023-01-21\|2023-01-21]] |
-| [[Areas/Public/API gravity is the biggest influence in crude oil price\|API gravity is the biggest influence in crude oil price]]                                    | [[journals/2022/09/2022-09-08\|2022-09-08]] |
-| [[Areas/Listive Theme/Listive-Docs/Alternate Checkbox\|Alternate Checkbox]]                                                                                          | July 07, 2024                                  |
-| [[Areas/General/what to do to change new phone\|what to do to change new phone]]                                                                                     | May 06, 2024                                   |
+| Top 5 Recently Added                                                                                                                                                                                                        | Added On                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                                                                                  | [[journals/2023/01/2023-01-21\|2023-01-21]] |
+| [[Areas/General/ergonomic chair design\|ergonomic chair design]]                                                                                                                                                         | July 09, 2024                                  |
+| [[Areas/Listive Theme/Listive-Docs/Alternate Checkbox\|Alternate Checkbox]]                                                                                                                                              | July 07, 2024                                  |
+| [[Areas/General/what to do to change new phone\|what to do to change new phone]]                                                                                                                                         | May 06, 2024                                   |
+| [[Areas/Engineering Economics/commercial volume cut-off is to ensure positive development decision can follow a discovery\|commercial volume cut-off is to ensure positive development decision can follow a discovery]] | March 15, 2024                                 |
 
 { .block-language-dataview}

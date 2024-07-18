@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12.md","permalink":"/petroleum-engineering/a-mole-of-anything-contains-as-many-particles-as-12g-of-carbon-12/","title":"a mole of anything contains as many particles as 12g of carbon-12","tags":["PermanentNote"]}
+{"dg-publish":true,"dg-path":"Petroleum Engineering/a mole of anything contains as many particles as 12g of carbon-12.md","permalink":"/petroleum-engineering/a-mole-of-anything-contains-as-many-particles-as-12g-of-carbon-12/","title":"a mole of anything contains as many particles as 12g of carbon-12","tags":["PermanentNote"],"created":"2023-05-04","updated":"2023-05-04"}
 ---
 
 
@@ -24,9 +24,3 @@
 
 ## References
 - [How does the mole relate to carbon 12? + Example (socratic.org)](https://socratic.org/questions/how-does-the-mole-relate-to-carbon-12)
-
-## Metadata
-- topic:: [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
-- created:: [[journals/2023/05/2023-05-04\|2023-05-04]]
-- updated:: [[journals/2023/05/2023-05-04\|2023-05-04]]
-- #PermanentNote 
