@@ -28,7 +28,7 @@ body {
     /* loose width range layout adjustment */
     @media (max-width: 500px) {
         body.markdown-rendered { padding-inline: calc(var(--file-margins) / 1.6); }
-        main.content.content { font-size: 15px; }
+/*         main.content.content { font-size: 15px; } */
     }
     @media (max-width: 800px) {
         .fullpage-overlay, .filetree-sidebar { top: 50px; }
