@@ -19,8 +19,8 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                                                    | [[journals/2023/01/2023-01-21\|2023-01-21]] |
 | [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]]                               | [[journals/2022/06/2022-06-22\|2022-06-22]] |
+| [[Areas/General/interesting digital gardens to keep in view\|interesting digital gardens to keep in view]]                                                                                 | July 31, 2024                                  |
 | [[Areas/Petroleum Engineering/BOE is used to compare different forms of energy\|BOE is used to compare different forms of energy]]                                                         | July 31, 2024                                  |
-| [[Areas/General/interesting digital gardens to keep in view\|interesting digital gardens to keep in view]]                                                                                 | July 22, 2024                                  |
 | [[Areas/General/Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic\|Three eras relevant to oil and gas exploration are Paleozoic, Mesozoic and Cenozoic]] | March 08, 2024                                 |
 
 { .block-language-dataview}

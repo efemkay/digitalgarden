@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"General/interesting digital gardens to keep in view.md","permalink":"/general/interesting-digital-gardens-to-keep-in-view/","title":"interesting digital gardens to keep in view","tags":["Reference"],"created":"2022-09-04","updated":"2024-07-22"}
+{"dg-publish":true,"dg-path":"General/interesting digital gardens to keep in view.md","permalink":"/general/interesting-digital-gardens-to-keep-in-view/","title":"interesting digital gardens to keep in view","tags":["Reference"],"created":"2022-09-04","updated":"2024-07-31"}
 ---
 
 
@@ -21,5 +21,6 @@
 	- [The Threshold (utsob.me)](https://hermitage.utsob.me/)
 	- [LeanProductivity Vault Collection (sascha-kasper.com)](https://wiki.sascha-kasper.com/)
 	- [Home (andresestrella.tech)](https://andresestrella.tech/)
+	- [HOME (santhosh-digital-garden.vercel.app)](https://santhosh-digital-garden.vercel.app/)
 
 

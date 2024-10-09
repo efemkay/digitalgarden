@@ -26,20 +26,20 @@ If you want to know what are my latest notes, table below shows the recently upd
 | [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                          | [[journals/2022/08/2022-08-03\|2022-08-03]] |
 | [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]             | [[journals/2022/07/2022-07-21\|2022-07-21]] |
 | [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]]     | [[journals/2022/06/2022-06-22\|2022-06-22]] |
+| [[Areas/General/manually install R packages\|manually install R packages]]                                                                                       | September 18, 2024                             |
+| [[Areas/General/interesting digital gardens to keep in view\|interesting digital gardens to keep in view]]                                                       | July 31, 2024                                  |
 | [[Areas/Petroleum Engineering/BOE is used to compare different forms of energy\|BOE is used to compare different forms of energy]]                               | July 31, 2024                                  |
 | [[Areas/General/Bayesian Thinking promotes revisiting our permanent notes periodically\|Bayesian Thinking promotes revisiting our permanent notes periodically]] | July 25, 2024                                  |
-| [[Areas/General/interesting digital gardens to keep in view\|interesting digital gardens to keep in view]]                                                       | July 22, 2024                                  |
 | [[Areas/Coding/add mathjax to github pages and jekyll\|add mathjax to github pages and jekyll]]                                                                  | July 21, 2024                                  |
-| [[Areas/Coding/mathjax in github\|mathjax in github]]                                                                                                            | July 21, 2024                                  |
 
 { .block-language-dataview}
 
 | Top 5 Recently Added                                                                                                                                                | Added On                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                          | [[journals/2023/01/2023-01-21\|2023-01-21]] |
+| [[Areas/General/manually install R packages\|manually install R packages]]                                                                                       | September 18, 2024                             |
 | [[Areas/General/Bayesian Thinking promotes revisiting our permanent notes periodically\|Bayesian Thinking promotes revisiting our permanent notes periodically]] | July 25, 2024                                  |
 | [[Areas/General/ergonomic chair design\|ergonomic chair design]]                                                                                                 | July 09, 2024                                  |
 | [[Areas/Listive Theme/Listive-Docs/Alternate Checkbox\|Alternate Checkbox]]                                                                                      | July 07, 2024                                  |
-| [[Areas/General/what to do to change new phone\|what to do to change new phone]]                                                                                 | May 06, 2024                                   |
 
 { .block-language-dataview}

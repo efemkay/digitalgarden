@@ -17,8 +17,8 @@
 
 | Top 5 Recently Updated                                                                                                                                              | Updated On         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Areas/General/interesting digital gardens to keep in view\|interesting digital gardens to keep in view]]                                                       | July 31, 2024      |
 | [[Areas/General/Bayesian Thinking promotes revisiting our permanent notes periodically\|Bayesian Thinking promotes revisiting our permanent notes periodically]] | July 25, 2024      |
-| [[Areas/General/interesting digital gardens to keep in view\|interesting digital gardens to keep in view]]                                                       | July 22, 2024      |
 | [[Areas/General/reading time is typically 200 wpm\|reading time is typically 200 wpm]]                                                                           | July 20, 2024      |
 | [[Areas/Public/obsidian query and search cheat sheet\|obsidian query and search cheat sheet]]                                                                    | July 08, 2024      |
 | [[Areas/Public/Improved Obsidian query with NIL Query Control and custom css\|Improved Obsidian query with NIL Query Control and custom css]]                    | September 30, 2022 |
