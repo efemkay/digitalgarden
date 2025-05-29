@@ -9,9 +9,9 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Areas/General/interesting digital gardens to keep in view\|interesting digital gardens to keep in view]]                                           | September 04, 2022 |
 | [[Areas/Engineering Economics/IRR has 3 key pitfalls to watch out for\|IRR has 3 key pitfalls to watch out for]]                                     | January 12, 2022   |
-| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]] | \-                 |
 | [[Areas/General/About My Notes\|About My Notes]]                                                                                                     | \-                 |
 | [[Areas/General/Notes Home\|Notes Home]]                                                                                                             | \-                 |
+| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]] | \-                 |
 
 { .block-language-dataview}
 

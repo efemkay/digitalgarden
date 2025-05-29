@@ -6,7 +6,7 @@
 - #### Commercial cut-off concept is introduced to better assess commercial viability – to optimise the EMV by ensuring success case branch is positive
 	- Commercial cut-off volume to establish the chance that **following a discovery a positive development (or appraisal) decision can follow**
 		- If no or a lower cut-off is applied, volume realizations with a negative NPV will be incorporated in the EMV aggregation – driving down the EMV even though the POS is increased.
-		- see [[journals/2022/09/with MEFS cutoff P50 economics should be positive\|with MEFS cutoff P50 economics should be positive]]
+		- see [[Areas/Engineering Economics/with MEFS cutoff P50 economics should be positive\|with MEFS cutoff P50 economics should be positive]]
 	- [i] The mean volume will be higher but this is generally more than offset by the decreasing POS
 	- Conceptually, the application of a cut-off at the volume where NPV=0 also optimizes the EMV (has nothing to do with project screening or similar considerations).
 - #### Applying the commercial cut-off to the probability density function (PDF) of a prospect means that volumes smaller than the cut-off are ignored

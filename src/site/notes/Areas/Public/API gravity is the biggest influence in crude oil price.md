@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Public/API gravity is the biggest influence in crude oil price.md","permalink":"/public/api-gravity-is-the-biggest-influence-in-crude-oil-price/","title":"API gravity is the biggest influence in crude oil price","tags":["PermanentNote"],"created":"2022-09-08","updated":"2023-01-27"}
+{"dg-publish":true,"dg-path":"Public/API gravity is the biggest influence in crude oil price.md","permalink":"/public/api-gravity-is-the-biggest-influence-in-crude-oil-price/","title":"API gravity is the biggest influence in crude oil price","tags":["PermanentNote"],"created":"2022-09-08","updated":"2024-11-28"}
 ---
 
 
 - #### There are 3 common aspects that influence crude oil prices i.e. API gravity, sulphur content and key contaminants (e.g. CO2 and Mercury)
+	- see [[Areas/Engineering Economics/crude yield and api\|crude yield and api]]
 	- Usually, crude oil is divided into 3 main categories depending on its API gravity:
 		- Light Oil – API > 31
 		- Medium Oil – API between 22 and 31
@@ -13,7 +14,7 @@
 	- sulphur content is the basis for classifying a crude’s sweetness – with lower sulphur being more sweet and higher sulphur more sour
 		- anecdotally, this naming is based on how the “taste” of sulphur being sour in nature.
 - #### When crude are refined in downstream, their monetisation attractiveness now depends on the end product and that product’s yield in open market
-	- see [[Areas/Downstream/Product Yield is key to determine GPW\|Product Yield is key to determine GPW]]
+	- see [[Product yield is key to determine GPW\|Product yield is key to determine GPW]]
 	- among the key product in the downstream are petroleum gas, fuel (gasoline/diesel), naptha and residue
 
 ## Knowing key crude type that’s used as global benchmark
