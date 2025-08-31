@@ -11,3 +11,5 @@
 
 ## References
 - [Ergonomic Chair Features.mp4 (sharepoint.com)](https://petronas.sharepoint.com/sites/wecare/_layouts/15/stream.aspx?id=%2Fsites%2Fwecare%2F2022%20Monthly%20Themes%2FJuly%20%2D%20IH%2FErgonomics%2FErgonomic%20Chair%20Features%2Emp4&ct=1720492194277&or=Outlook%2DBody&cid=15FB0DB4%2D0C4C%2D4535%2DB51D%2DE6B8087D2A61&ga=1&LOF=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4f389905%2De759%2D4e03%2D9e61%2Dcbbc51746aaf)
+- [Office Ergonomics (3 year refresher)](https://petronas.csod.com/ui/lms-learning-details/app/course/88bf9286-d737-4c07-a13f-59ad5f793546)
+- [PCSB Office Ergonomics Self-Assessment Checklist](https://forms.office.com/pages/responsepage.aspx?id=QYkuO0h5MUGXirLfxylQkZtxGTau35NCs8LkWgyweONURUtZN1YzWTk5NzRXTE5SUkQyTTI4NUxNMy4u&origin=lprLink&route=shorturl)

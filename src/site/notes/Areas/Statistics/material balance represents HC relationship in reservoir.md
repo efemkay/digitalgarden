@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Statistics/material balance represents HC relationship in reservoir.md","permalink":"/statistics/material-balance-represents-hc-relationship-in-reservoir/","title":"material balance represents HC relationship in reservoir","tags":["PermanentNote"]}
+{"dg-publish":true,"dg-path":"Statistics/material balance represents HC relationship in reservoir.md","permalink":"/statistics/material-balance-represents-hc-relationship-in-reservoir/","tags":["PermanentNote"],"created":"2023-01-21","updated":"2023-01-21"}
 ---
 
 
@@ -26,8 +26,3 @@
 - [[Archive/RE for Non RE/10 RE for Non RE\|10 RE for Non RE]] materials. Go to MOC page for pw
 	- [Chap 2.2 Reservoir Analysis Tool (sharepoint.com)](https://petronas-my.sharepoint.com/personal/faizkhuzaimah_petronas_com/Documents/00%20Work%20Common/Training/2021%20RE%20for%20Non%20RE/SKG10%20RENRE%20-%20SEPT%202021/Chap%202.2%20Reservoir%20Analysis%20Tool%20final%20%20r1.pdf?CT=1674272614668&OR=ItemsView)
 
-## Metadata
-- topic:: [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
-- created:: [[journals/2023/01/2023-01-21\|2023-01-21]]
-- updated:: [[journals/2023/01/2023-01-21\|2023-01-21]]
-- #PermanentNote 

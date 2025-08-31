@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty.md","permalink":"/petroleum-engineering/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","title":"McKelvey Box helps to visualise mineral resources uncertainty"}
+{"dg-publish":true,"dg-path":"Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty.md","permalink":"/petroleum-engineering/mc-kelvey-box-helps-to-visualise-mineral-resources-uncertainty/","tags":["LiteratureNote"],"updated":"2022-06-22"}
 ---
 
 
@@ -16,9 +16,3 @@
 ## References
 - [McKelvey's reserves and resources — Agile (agilescientific.com)](https://agilescientific.com/blog/2011/10/18/mckelveys-reserves-and-resources.html)
 - [McKelvey box - SubSurfWiki](https://subsurfwiki.org/wiki/McKelvey_box)
-
-## Metadata
-- topic:: [[Areas/MOCs/00 Petroleum Engineering\|00 Petroleum Engineering]]
-- updated:: [[journals/2022/06/2022-06-22\|2022-06-22]]
-- reviewed:: [[journals/2022/06/2022-06-22\|2022-06-22]]
-- #LiteratureNote 

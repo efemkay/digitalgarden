@@ -19,27 +19,27 @@ If you want to know what are my latest notes, table below shows the recently upd
 
 ---
 
-| Top 10 Recently Updated                                                                                                                                         | Updated On                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                      | [[journals/2023/01/2023-01-21\|2023-01-21]] |
-| [[Areas/Public/Box-Cox function help find best transformation to normalise variable\|Box-Cox function help find best transformation to normalise variable]]  | [[journals/2022/10/2022-10-10\|2022-10-10]] |
-| [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                      | [[journals/2022/08/2022-08-03\|2022-08-03]] |
-| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]         | [[journals/2022/07/2022-07-21\|2022-07-21]] |
-| [[Areas/Petroleum Engineering/McKelvey Box helps to visualise mineral resources uncertainty\|McKelvey Box helps to visualise mineral resources uncertainty]] | [[journals/2022/06/2022-06-22\|2022-06-22]] |
-| [[Areas/Health/Autism Intervention\|Autism Intervention]]                                                                                                    | August 10, 2025                                |
-| [[Areas/General/Allopurinol\|Allopurinol]]                                                                                                                   | April 13, 2025                                 |
-| [[Areas/General/Celebrex\|Celebrex]]                                                                                                                         | April 13, 2025                                 |
-| [[Areas/General/Colchicine\|Colchicine]]                                                                                                                     | April 13, 2025                                 |
-| [[Areas/MOCs/Naproxen Sodium\|Naproxen Sodium]]                                                                                                              | April 13, 2025                                 |
+| Top 10 Recently Updated                                                                                                                                        | Updated On                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Areas/Public/Box-Cox function help find best transformation to normalise variable\|Box-Cox function help find best transformation to normalise variable]] | [[journals/2022/10/2022-10-10\|2022-10-10]] |
+| [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                     | [[journals/2022/08/2022-08-03\|2022-08-03]] |
+| [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]        | [[journals/2022/07/2022-07-21\|2022-07-21]] |
+| [[Areas/General/useful AI tools\|useful AI tools]]                                                                                                          | August 31, 2025                                |
+| [[Areas/General/AI tools for youtube\|AI tools for youtube]]                                                                                                | August 31, 2025                                |
+| [[Areas/General/online and web-based tools I use\|online and web-based tools I use]]                                                                        | August 31, 2025                                |
+| [[Areas/Health/Dyslexia\|Dyslexia]]                                                                                                                         | August 24, 2025                                |
+| [[Areas/Health/Autism Intervention\|Autism Intervention]]                                                                                                   | August 10, 2025                                |
+| [[Areas/General/Allopurinol\|Allopurinol]]                                                                                                                  | April 13, 2025                                 |
+| [[Areas/General/Celebrex\|Celebrex]]                                                                                                                        | April 13, 2025                                 |
 
 { .block-language-dataview}
 
-| Top 5 Recently Added                                                                                                                                                | Added On                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [[Areas/Statistics/material balance represents HC relationship in reservoir\|material balance represents HC relationship in reservoir]]                          | [[journals/2023/01/2023-01-21\|2023-01-21]] |
-| [[Areas/General/Celebrex\|Celebrex]]                                                                                                                             | April 13, 2025                                 |
-| [[Areas/MOCs/Naproxen Sodium\|Naproxen Sodium]]                                                                                                                  | April 13, 2025                                 |
-| [[Areas/General/manually install R packages\|manually install R packages]]                                                                                       | September 18, 2024                             |
-| [[Areas/General/Bayesian Thinking promotes revisiting our permanent notes periodically\|Bayesian Thinking promotes revisiting our permanent notes periodically]] | July 25, 2024                                  |
+| Top 5 Recently Added                                                                                                                                                | Added On           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Areas/General/AI tools for youtube\|AI tools for youtube]]                                                                                                     | August 31, 2025    |
+| [[Areas/General/Celebrex\|Celebrex]]                                                                                                                             | April 13, 2025     |
+| [[Areas/MOCs/Naproxen Sodium\|Naproxen Sodium]]                                                                                                                  | April 13, 2025     |
+| [[Areas/General/manually install R packages\|manually install R packages]]                                                                                       | September 18, 2024 |
+| [[Areas/General/Bayesian Thinking promotes revisiting our permanent notes periodically\|Bayesian Thinking promotes revisiting our permanent notes periodically]] | July 25, 2024      |
 
 { .block-language-dataview}
