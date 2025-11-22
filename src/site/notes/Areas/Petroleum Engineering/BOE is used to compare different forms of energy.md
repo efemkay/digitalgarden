@@ -8,9 +8,11 @@
 		- For example, if a natural gas field produces 6 million cubic feet of gas per day, this can be converted into BOE to compare it to the production of an oil field.
 	- Inversely, there is also cubic feet of natural gas equivalent (CFE) for gas equivalent of energy.
 - #### Conversion factor used for BOE is based on the energy content of a barrel of oil, which is typically 5.8 million British thermal units (BTUs) but it usually varies
+{ #a61fc7}
+
 	- For 5.8 million British Thermal Unit (MMBtu) basis, this means that one BOE is equivalent to the amount of energy that can be obtained from burning 5.8 MMBtu of oil
 	- Common industry gas conversion factors usually range between 5.6 to 6.0 mscf per boe
-		- mscf is thousand cubic feet and in this example, it assumes 1000 btu per scf (see [[Areas/General/boe to mmbtu\|boe to mmbtu]])
+		- mscf is thousand cubic feet and in this example, it assumes 1000 btu per scf (see [[Areas/Petroleum Engineering/how to convert mmbtu to boe\|how to convert mmbtu to boe]])
 	- see also [[Areas/Petroleum Engineering/Ln slope parity with oil depends on ghv to boe factor\|Ln slope parity with oil depends on ghv to boe factor]]
 
 > [!info] Calculating Barrel of Oil Equivalents

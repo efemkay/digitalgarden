@@ -7,6 +7,7 @@
 
 | Top 5 Recently Added                                                                                                                   | Added On         |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Areas/General/using leverage to supercharge returns\|using leverage to supercharge returns]]                                      | August 31, 2025  |
 | [[Areas/Public/we should invest only in companies with growing earnings\|we should invest only in companies with growing earnings]] | October 01, 2022 |
 | [[Areas/General/Dividend payment indicates confidence in financial\|Dividend payment indicates confidence in financial]]            | January 18, 2022 |
 | [[Areas/General/Notes Home\|Notes Home]]                                                                                            | \-               |
@@ -16,6 +17,7 @@
 
 | Top 5 Recently Updated                                                                                                                 | Updated On       |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Areas/General/using leverage to supercharge returns\|using leverage to supercharge returns]]                                      | August 31, 2025  |
 | [[Areas/Public/we should invest only in companies with growing earnings\|we should invest only in companies with growing earnings]] | October 01, 2022 |
 | [[Areas/General/Dividend payment indicates confidence in financial\|Dividend payment indicates confidence in financial]]            | January 18, 2022 |
 | [[Areas/General/Notes Home\|Notes Home]]                                                                                            | \-               |

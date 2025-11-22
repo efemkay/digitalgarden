@@ -24,22 +24,22 @@ If you want to know what are my latest notes, table below shows the recently upd
 | [[Areas/Public/Box-Cox function help find best transformation to normalise variable\|Box-Cox function help find best transformation to normalise variable]] | [[journals/2022/10/2022-10-10\|2022-10-10]] |
 | [[Areas/Statistics/Confusion Matrix\|Confusion Matrix]]                                                                                                     | [[journals/2022/08/2022-08-03\|2022-08-03]] |
 | [[Areas/Engineering Economics/it is more fair to compare lease vs borrow instead of buy\|it is more fair to compare lease vs borrow instead of buy]]        | [[journals/2022/07/2022-07-21\|2022-07-21]] |
-| [[Areas/General/useful AI tools\|useful AI tools]]                                                                                                          | August 31, 2025                                |
+| [[Areas/General/wasiat dan harta pusaka\|wasiat dan harta pusaka]]                                                                                          | November 01, 2025                              |
+| [[Areas/Coding/use tidyverse to wrangle data\|use tidyverse to wrangle data]]                                                                               | September 30, 2025                             |
+| [[Areas/Petroleum Engineering/how to convert mmbtu to boe\|how to convert mmbtu to boe]]                                                                    | September 04, 2025                             |
 | [[Areas/General/AI tools for youtube\|AI tools for youtube]]                                                                                                | August 31, 2025                                |
 | [[Areas/General/online and web-based tools I use\|online and web-based tools I use]]                                                                        | August 31, 2025                                |
-| [[Areas/Health/Dyslexia\|Dyslexia]]                                                                                                                         | August 24, 2025                                |
-| [[Areas/Health/Autism Intervention\|Autism Intervention]]                                                                                                   | August 10, 2025                                |
-| [[Areas/General/Allopurinol\|Allopurinol]]                                                                                                                  | April 13, 2025                                 |
-| [[Areas/General/Celebrex\|Celebrex]]                                                                                                                        | April 13, 2025                                 |
+| [[Areas/General/useful AI tools\|useful AI tools]]                                                                                                          | August 31, 2025                                |
+| [[Areas/General/using leverage to supercharge returns\|using leverage to supercharge returns]]                                                              | August 31, 2025                                |
 
 { .block-language-dataview}
 
-| Top 5 Recently Added                                                                                                                                                | Added On           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Areas/General/AI tools for youtube\|AI tools for youtube]]                                                                                                     | August 31, 2025    |
-| [[Areas/General/Celebrex\|Celebrex]]                                                                                                                             | April 13, 2025     |
-| [[Areas/MOCs/Naproxen Sodium\|Naproxen Sodium]]                                                                                                                  | April 13, 2025     |
-| [[Areas/General/manually install R packages\|manually install R packages]]                                                                                       | September 18, 2024 |
-| [[Areas/General/Bayesian Thinking promotes revisiting our permanent notes periodically\|Bayesian Thinking promotes revisiting our permanent notes periodically]] | July 25, 2024      |
+| Top 5 Recently Added                                                                                 | Added On        |
+| ---------------------------------------------------------------------------------------------------- | --------------- |
+| [[Areas/General/AI tools for youtube\|AI tools for youtube]]                                      | August 31, 2025 |
+| [[Areas/General/using leverage to supercharge returns\|using leverage to supercharge returns]]    | August 31, 2025 |
+| [[Areas/Health/non-coating pan is better non-stick pan\|non-coating pan is better non-stick pan]] | August 31, 2025 |
+| [[Areas/General/Celebrex\|Celebrex]]                                                              | April 13, 2025  |
+| [[Areas/MOCs/Naproxen Sodium\|Naproxen Sodium]]                                                   | April 13, 2025  |
 
 { .block-language-dataview}

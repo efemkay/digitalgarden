@@ -9,7 +9,7 @@
 		- This is roughly equivalent to 6.1 gigajoules (GJ)
 	- It also assumes capacity of 42 gallons per barrel with specific gravity of 38.6 API
 - #### Conversion of scf to boe requires assumption of the energy content of 1 barrel to represent how much scf is needed to be equivalent to that
-	- this will be further dependant on the scf to btu relationship – that is between volumetric and energy (see [[Areas/General/boe to mmbtu\|boe to mmbtu]])
+	- this will be further dependant on the scf to btu relationship – that is between volumetric and energy (see [[Areas/Petroleum Engineering/how to convert mmbtu to boe\|how to convert mmbtu to boe]])
 
 > [!info]- Crude Oil Equivalent
 > - Converting gas volumes to the oil equivalent is customarily done on the basis of the heating content or calorific value of the fuel. There are a number of methodologies in common use.
